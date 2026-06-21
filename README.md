@@ -24,7 +24,7 @@ Kimi：k2.6/k2.7 code
 
 Mimo：V2.5 Pro
 
-
+特别嘉宾：GPT 5.6、Gemini 3.5 Pro
 
 
 ## 常识题
