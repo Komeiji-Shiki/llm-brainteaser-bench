@@ -52,7 +52,7 @@ Mimo：V2.5 Pro
 详解：![标准104键键盘布局](./img/KB.png)
 
 
-可通过的模型：Gemini 3.5 Flash、Gemini 3.1 Pro、GPT 5.5、Claude Opus 4.5/4.6/4.7/4.8、GLM 5.2
+可通过的模型：Gemini 3.5 Flash、Gemini 3.1 Pro、GPT 5.5、Claude Opus 4.6/4.7/4.8、GLM 5.2
 
 ### 3. 运煤问题
 
